@@ -1,4 +1,4 @@
-# 📄 Final Project Pro - Token Freeze Smart Contract
+# 📄 Final Project  - Token Freeze Smart Contract
 
 ## 📚 Proje Açıklaması
 
