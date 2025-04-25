@@ -44,5 +44,5 @@ Ayrıca sistem, yapılan işlemler için **event (olay) bildirimi** sağlayarak,
 
 - **Ad:** Eren Karakoyun
 - **Proje Amacı:** Kursun final projesi kapsamında, orijinallik ve teknik kaliteyi artıracak bir freeze mekanizması geliştirmek.
-
+- Proje'de Geliştirme aşamasına Ai'den destek alınmıştır Web3'ün ne kadar karmaşık olduğunu unutmayın.
 ---
